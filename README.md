@@ -9,3 +9,7 @@
 5. OOPs
 
 ## Advanced Topics
+1. Bootstrap 4 Vs Material 2
+2. AngularJS 2
+3. Laravel 5.3
+4. Jersey
