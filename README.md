@@ -31,7 +31,7 @@
 1. HTML5 (Rajesh)
 2. JavaScript (Nilesh)
 3. PHP (Shantanu)
-4. MySQL (Pallavi)
+4. [MySQL](mysql.md) (Pallavi)
 5. OOPs (Team RR)
 6. TDD Kickstart (Aslam)
 6. Code review (Team Dev)
