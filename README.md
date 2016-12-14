@@ -23,30 +23,33 @@
  
 #### Development Tools (Rajesh)
 1. VS Code & Plugins
-2. Git
-3. NodeJS & NPM
+2. Git (ssh config, key-gen)
+3. NodeJS & NPM (Instllation, package.json, small)
 
 
 #### Basics
-1. HTML5 (Rajesh)
+1. HTML5 (Shantanu)
 2. JavaScript (Nilesh)
-3. PHP (Shantanu)
+3. PHP (Rajesh)
 4. [MySQL](mysql.md) (Pallavi)
-5. OOPs (Team RR)
+5. OOPs (Dev Team per topic)
 6. TDD Kickstart (Aslam)
-6. Code review (Team Dev)
+6. Code review (Dev Team per 2 developers)
 
 #### Clean Code 
 1. Theory (Aslam)
 2. Coding conventions (Rajesh)
-3. VS Code settings (Shantanu)
+3. VS Code / IDE beautify plugin settings (Shantanu)
 4. Code coverage (Assignment)
 5. Lint (Assignment)
 
 #### Advanced Topics ()
-1. Bootstrap 4 Vs Material 2 (Nilesh / Shantanu)
+1. Bootstrap 4 (Shantanu) & Material 2 (Nilesh)
 2. AngularJS 2 (Aslam)
 3. Laravel 5.3 (Rajesh)
 4. Jersey (Abhijeet)
-5. Project with TDD, git, nodejs, npm, continous delivery (Pallavi - Scrum Master)
+5. Project  (Pallavi - Scrum Master)
 6. Code review (Aslam)
+
+* Dev Team (Rajesh, Nilesh, Pallavi, Shantanu)
+* Lead Team (Rajesh, Aslam)
