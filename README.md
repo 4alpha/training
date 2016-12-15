@@ -29,7 +29,7 @@
 
 #### Basics
 1. HTML5 (Shantanu)
-2. JavaScript (Nilesh)
+2. [JavaScript](javaScript.md) (Nilesh)
 3. [PHP](php.md) (Rajesh)
 4. [MySQL](mysql.md) (Pallavi)
 5. OOPs (Dev Team per topic)
