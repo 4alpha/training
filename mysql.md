@@ -3,7 +3,9 @@
 3. [Sample Database] (https://dev.mysql.com/doc/employee/en/)
 3. Creating schema, tables. Adding constraints, default, indexes, relationships
 4. Joins, cascaded operations.
-5. MYSQL data types, functions aggregate + grouping. Date, string 
+5. MYSQL data types
 6. SELECT syntax
 7. Optimization - Optimizing queries with explain & others
 8. Errors and logs
+9. Functions (Comparison, Control Flow, String, Date Time) and Logical operators 
+10. Queries (Basic, Advanced, Sub-query)
