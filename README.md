@@ -6,26 +6,12 @@
 4. Research / Self Help - In built -- help, Code Base, Git Bugs, Test Case, Google, Stackoverflow
 5. Peer - Subordinate, Forum, Discussion Board
 
-#### Development Environment (Shantanu / Pallavi)
-1. Introduction to Linux
-2. Installing Ubuntu GNOME
-3. Explore shell, profile, console & terminal
-4. Basic commands ls, cd, cp, mv, rm, tail, vi, 
-5. sudo, systemctl
-6. File, Folder, home directory, pathnames, current dir . , parent dir.. ,  & Permissions, Hidden files
-7. Redirection & pipes
-7. Update vs Upgrade
-8. Network Setup
-9. Managing Software Packages
-10. Text Editor
-11. Productivity tool MS Office Vs Libreoffice
-12. Utilites - file browser, ssh
- 
-#### Development Tools (Rajesh)
-1. VS Code & Plugins
-2. Git (ssh config, key-gen)
-3. NodeJS & NPM (Instllation, package.json, small)
-
+#### Development Environment
+1. [OS](linux.md) (Shantanu / Pallavi / Nilesh)
+1. [Code](code.md) (Editing vscode, Versioning git)
+1. [Build](build.md) (Automation gulpjs)
+1. [Package Manager](pm.md) (npm)
+1. [Other](tools-other.md) (nodejs)
 
 #### Basics
 1. HTML5 (Shantanu)
