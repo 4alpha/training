@@ -1,16 +1,24 @@
-1. Installation of PHP, mbstring, sqlite.
-2. Introduction of php.ini file
-3. Language basics (Variables, Datatypes)
-4. Arrays
-5. Control Structures
-6. Functions
-7. String functions
-8. Array functions
-9. Date functions
-10. JSON
-11. Database handling using PHP
-12. Classes and object
-13. Singleton object
-14. Object cloning
-15. Static
-16. Sessions and cookies
+1. Introduction to server side scripting
+2. Installation of PHP
+3. Introduction of php.ini file (Discuss important settings)
+4. Installing other extensions (mbstring, sqlite)
+5. Language basics (Variables, Datatypes)
+6. Arrays
+7. Control Structures
+8. Functions (Anonymous)
+9. String functions
+10. Array functions
+11. Date functions
+12. JSON
+13. Special variables
+14. Form submission / Request handling
+15. Session and Cookies
+16. Special functions (set_ini, exec, set_time_limit) / Important built-in functions (ob_start, url_encode, url_decode, dump,       print_r, echo, max_execution_time)
+17. echo vs print
+18. Serialize and unserialize
+19. Database handling using PHP
+20. Classes and object
+21. Singleton object
+22. Object cloning
+23. Static 
+(Topics from 20 - 23 with OOP session)
