@@ -1,0 +1,5 @@
+1. Apply scrum for training. Past training, todays training, obstacles ?
+2. Assignment review and feedback
+3. **Administer small doses** - Most people get "burned out" if they get too much of a good thing-at least too much at one time. That's just the way most minds work. If you're going to schedule a week of training, you'll do better to spread all five topics, a little at a time, across five days, rather than covering a full topic each day. Administratively, this is a little more work, but the payback is much higher. Having a tip of the day is another easy way to administer small doses.
+4. **Apply knowledge right away** - It's too easy to forget something if you don't use it. Experts disagree on the "shelf life" of learning, but there's somewhat of a consensus you should wait no longer than two weeks to make use of newly acquired skills. Even if people didn't forget, they are much more motivated when they know they can put their learning investment to use right away.
+5. Topics - Understanding. When to apply. Usage. Assignments with research
