@@ -7,12 +7,12 @@
  7. SELECT syntax
  8. Functions (Comparison) and Logical operators 
  9. Queries (Basic)
-10. Errors and logs
-11. Import, Export using command line. ([Sample Database] (https://dev.mysql.com/doc/employee/en/))
-11. Introduction to MySql workbench & connection settings, workbench bulk update setting
-12. Functions (Comparison, Control Flow, String, Date Time) and Logical operators (Using MySql workbench)
-13. Queries (Basic, Advanced, Sub-query) on imported data
-14. Optimization - Optimizing queries with explain & others
+ 10. Errors and logs
+ 11. Import, Export using command line. ([Sample Database] (https://dev.mysql.com/doc/employee/en/))
+ 12. Introduction to MySql workbench & connection settings, workbench bulk update setting
+ 13. Functions (Comparison, Control Flow, String, Date Time) and Logical operators (Using MySql workbench)
+ 14. Queries (Basic, Advanced, Sub-query) on imported data
+ 15. Optimization - Optimizing queries with explain & others
 
 
 <!--Previous 
