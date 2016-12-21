@@ -1,7 +1,7 @@
 1. Introduction to Linux
 1. Install Ubuntu GNOME
 1. Network Setup
-1. Managing Software Packages
+1. [Managing Software Packages](https://help.ubuntu.com/lts/serverguide/package-management.html)
 1. Productivity tool MS Office Vs Libreoffice
 1. Update vs Upgrade
 1. Explore shell, profile, console & terminal
