@@ -14,7 +14,7 @@
 1. [Other](tools-other.md) (nodejs)
 
 #### Basics
-1. HTML5 (Shantanu)
+1. [HTML5](html.md) (Shantanu)
 2. [JavaScript](javaScript.md) (Nilesh)
 3. [PHP](php.md) (Rajesh)
 4. [MySQL](mysql.md) (Pallavi)
