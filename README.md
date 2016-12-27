@@ -8,6 +8,15 @@
 6. Review
 
 #### [Development Environment](dev-env.md)
+1. [OS](linux.md)
+1. Editors - (Shantanu)
+2. Code Style and Formatting (Nilesh)
+3. Versioning  -Git (Rajesh)
+4. Package Manager npm / maven - (Pallavi)
+5. Build gulpjs - (Pallavi) 
+6. Static code analysis (Style, Syntax Check) - (Aslam)
+7. Local Development Environment (Vagrant, Docker, Servers) - (Aslam)
+8. Tools (nodejs, npm, artisan etc) (Shantanu, Nilesh)
 
 #### Basics
 1. [HTML5](html) (Shantanu)
