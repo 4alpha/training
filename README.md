@@ -35,6 +35,7 @@
 
 #### Advanced Topics
 1. [Frameworks](frameworks.md) (Aslam)
+1. Agile Software Development (Aslam)
 1. [Bootstrap 4 & Material 2](bs-md.md) (Shantanu, Nilesh)
 2. [AngularJS 2](angular2.md) (Aslam)
 3. [Laravel 5.3](laravel.md) (Rajesh)
