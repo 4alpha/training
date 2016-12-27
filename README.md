@@ -30,7 +30,7 @@
 1. Theory (Aslam)
 2. Naming conventions (Rajesh)
 3. Refactoring (Aslam)
-4. Better code using TDD, OOPs (Aslam)
+4. Better code using TDD, OOPs & Patterns (Aslam)
 5. [Examples](code.md) (Rajesh)
 
 #### Advanced Topics
