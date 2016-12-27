@@ -1,5 +1,5 @@
 # Training Content
-#### [Seeking Help](help.md) (Aslam)
+#### [Seeking Help](help.md)
 
 #### [Development Environment](dev-env.md)
 
