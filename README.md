@@ -41,6 +41,5 @@
 4. [Jersey](jersey.md) (Abhijeet)
 5. [Project](project.md) (Mentor - Pallavi / Rajesh, Reviewer - Nilesh / Shantanu)
 
-* Training Log
-* Scrum Log
-* Code Review Log
+* [Training / Assignment Log](training-log.md)
+* [Code Review Log](code-review-log.md)
