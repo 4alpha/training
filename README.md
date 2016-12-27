@@ -34,12 +34,13 @@
 5. [Examples](code.md)
 
 #### Advanced Topics
-1. [Bootstrap 4 & Material 2](html.md) (Shantanu, Nilesh)
-2. [AngularJS 2](javascript.md) (Aslam)
+1. [Frameworks](frameworks.md) (Aslam)
+1. [Bootstrap 4 & Material 2](bs-md.md) (Shantanu, Nilesh)
+2. [AngularJS 2](angular2.md) (Aslam)
 3. [Laravel 5.3](laravel.md) (Rajesh)
 4. [Jersey](jersey.md) (Abhijeet)
 5. [Project](project.md) (Pallavi - Scrum Master)
 
 * Dev Team (Rajesh, Nilesh, Pallavi, Shantanu)
 * Lead Team (Rajesh, Aslam)
-* Daily assignments & code reviews
+* Daily assignments, scrum meeting & code reviews
