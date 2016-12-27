@@ -28,10 +28,10 @@
 
 #### Code for Humans
 1. Theory (Aslam)
-2. Coding conventions (Rajesh)
-3. Refactoring
-4. TDD / BDD
-5. [Examples](code.md)
+2. Naming conventions (Rajesh)
+3. Refactoring (Aslam)
+4. TDD / BDD (Aslam)
+5. [Examples](code.md) (Rajesh)
 
 #### Advanced Topics
 1. [Frameworks](frameworks.md) (Aslam)
@@ -39,9 +39,8 @@
 2. [AngularJS 2](angular2.md) (Aslam)
 3. [Laravel 5.3](laravel.md) (Rajesh)
 4. [Jersey](jersey.md) (Abhijeet)
-5. [Project](project.md) (Lead Pallavi / Rajesh, TDD Reviewer Nilesh / Shantanu)
+5. [Project](project.md) (Mentor - Pallavi / Rajesh, Reviewer - Nilesh / Shantanu)
 
-
-* Dev Team (Rajesh, Nilesh, Pallavi, Shantanu)
-* Lead Team (Rajesh, Aslam)
-* Daily assignments, scrum meeting & code reviews
+* Training Log
+* Scrum Log
+* Code Review Log
