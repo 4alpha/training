@@ -6,12 +6,7 @@
 4. Research / Self Help - In built -- help, Code Base, Git Bugs, Test Case, Google, Stackoverflow
 5. Peer - Subordinate, Forum, Discussion Board
 
-#### Development Environment
-1. [OS](linux.md) (Shantanu / Pallavi / Nilesh)
-1. [Code](code.md) (Editing vscode, Versioning git)
-1. [Build](build.md) (Automation gulpjs)
-1. [Package Manager](pm.md) (npm)
-1. [Other](tools-other.md) (nodejs)
+#### [Development Environment](dev-env.md)
 
 #### Basics
 1. [HTML5](html) (Shantanu)
