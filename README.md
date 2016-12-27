@@ -11,7 +11,7 @@
 1. [OS](linux.md)
 1. Editors - (Shantanu)
 2. Code Style and Formatting (Nilesh)
-3. Versioning  -Git (Rajesh)
+3. [Versioning - Git](git-versioning.md) (Rajesh)
 4. Package Manager npm / maven - (Pallavi)
 5. Build gulpjs - (Pallavi) 
 6. Static code analysis (Style, Syntax Check) - (Aslam)
