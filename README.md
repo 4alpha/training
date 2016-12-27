@@ -21,7 +21,7 @@
 #### Kickstart
 1. [OOPs](oops.md) (Dev Team)
 2. [Unit Testing](testing.md) (Aslam)
-1. [HTML5](html) (Shantanu)
+1. [HTML5](html.md) (Shantanu)
 2. [JavaScript](javaScript.md) (Nilesh)
 3. [PHP](php.md) (Rajesh)
 4. [MySQL](mysql.md) (Pallavi)
