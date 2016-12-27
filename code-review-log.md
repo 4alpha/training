@@ -1,7 +1,7 @@
 ###### Tue Dec 27, 2016
 ```javascript
 function showPanel() {
-  if (user.role == 'Admin'){
+  if (user.role == 'Admin' || user.role == 'Super Admin'){
     return true;
   }
   if (user.role == 'Sales Manager' || user.role == 'Borrower Specialist' || user.role == 'Investor Specialist'){
@@ -17,7 +17,7 @@ function showPanel() {
 ```javascript
 function showPanel() {
   if (isAdmin(user) || isManager(user)){
-    return return;
+    return true;
   }
   return false;
 }
