@@ -1,3 +1,5 @@
+###### To be updated by trainee in round robin fashion
+
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
 Dec 28, 2016 | Aslam | Latest Above Old | Got ?
