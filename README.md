@@ -39,7 +39,7 @@
 2. [AngularJS 2](angular2.md) (Aslam)
 3. [Laravel 5.3](laravel.md) (Rajesh)
 4. [Jersey](jersey.md) (Abhijeet)
-5. [Project](project.md) (Pallavi - Scrum Master)
+5. [Project](project.md) (Lead Pallavi / Rajesh, TDD Reviewer Nilesh / Shantanu)
 
 
 * Dev Team (Rajesh, Nilesh, Pallavi, Shantanu)
