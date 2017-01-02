@@ -8,4 +8,17 @@ services, support. Mass collaboration to produce quick output.
 
 5. man page - manual page for unix command
 6. Release notes - Document the changes provided when software is released. (Bug fixes, feature added, resolutions etc)
-7. 
+7. API / Reference - Software library, services offer and how to use services. know how to use API
+8. Tutorial - Perform specific task by example using well detailed instructions
+9. Knowledge base - stores complex structured and unstructured information that can be uses to create expert system
+10. Samples - Provides basic usage structure for term in question. 
+11. Forum / Discussion board - held conversation by posting message. replies are threaded and generally long discussion. Google / Stackexchange
+12. Code base - opensource browse
+13. Test Case - Helps us to understand usage if feature is documented poorly
+14. Books 
+15. Getting involed in development
+
+Assignment 
+1. Diff man vs info vs --help
+2. Can API document be created automatically  ? How ? Advantages & Disadvantages.
+3. 
