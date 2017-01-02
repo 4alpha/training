@@ -8,7 +8,7 @@ services, support. Mass collaboration to produce quick output.
 
 5. man page - manual page for unix command
 6. Release notes - Document the changes provided when software is released. (Bug fixes, feature added, resolutions etc)
-7. API / Reference - Software library, services offer and how to use services. know how to use (API)[https://docs.oracle.com/javase/8/docs/api/index.html]
+7. API / Reference - Software library, services offer and how to use services. know how to use [API](https://docs.oracle.com/javase/8/docs/api/index.html)
 8. Tutorial - Perform specific task by example using well detailed instructions
 9. Knowledge base - stores complex structured and unstructured information that can be uses to create expert system
 10. Samples - Provides basic usage structure for term in question. 
