@@ -17,6 +17,7 @@
 6. Static code analysis (Style, Syntax Check) - (Aslam)
 7. Local Development Environment (Vagrant, Docker, Servers) - (Aslam)
 8. Tools (nodejs, [npm](npm.md), artisan etc) (Shantanu, Nilesh)
+9. Accounts - github, upwork
 
 #### Kickstart
 1. [OOPs](oops.md) (Dev Team)
