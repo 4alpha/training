@@ -22,3 +22,5 @@ Table
 
 Forms ->
 	button, datalist, form, input, label, select, option, optgroup, textarea
+	
+HTML5 Accessibility
