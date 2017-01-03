@@ -4,22 +4,23 @@
 #### [Development Environment](dev-env.md)
 1. [OS](linux.md)
 1. [Editors](editors.md) - (Shantanu)
-2. [Coding Formatting / Styling](styleguide.md) (Nilesh)
 3. [Versioning - Git](git-versioning.md) (Rajesh)
+7. Local Development Environment (Vagrant, Docker, Servers) - (Aslam)
+2. [Coding Formatting / Styling](styleguide.md) (Nilesh)
 4. Package Manager npm / maven - (Pallavi)
+8. Tools (nodejs, [npm](npm.md), artisan etc) (Shantanu, Nilesh)
 5. Build gulpjs - (Pallavi) 
 6. Static code analysis (Style, Syntax Check) - (Aslam)
-7. Local Development Environment (Vagrant, Docker, Servers) - (Aslam)
-8. Tools (nodejs, [npm](npm.md), artisan etc) (Shantanu, Nilesh)
-9. Accounts - github, upwork
+9. Developer Accounts - ~~slack, github,~~ upwork
 
 #### Kickstart
-1. [OOPs](oops.md) (Dev Team)
-2. [Unit Testing](testing.md) (Aslam)
 1. [HTML5](html.md) (Shantanu)
 2. [JavaScript](javaScript.md) (Nilesh)
-3. [PHP](php.md) (Rajesh)
 4. [MySQL](mysql.md) (Pallavi)
+1. [OOP using Java](oops.md) (Dev Team)
+2. [Unit Testing](testing.md) (Aslam)
+3. [PHP](php.md) (Rajesh)
+
 
 #### Code for Humans
 1. Theory (Aslam)
