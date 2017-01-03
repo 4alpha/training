@@ -1,43 +1,42 @@
 [Git Versioning] (https://git-scm.com/documentation)
 
-1.What is a version control system?
+1. What is a version control system?
 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.
 
-2.What is git version control system?
+2. What is git version control system?
 
 Git (/ɡɪt/) is a widely-used source code management system for software development. It is a distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows.
 
-3.What is the git repository?
+3. What is the git repository?
 
 The purpose of Git is to manage a project, or a set of files, as they change over time. Git stores this information in a data structure called a repository. A git repository contains, among other things, the following: A set of commit objects. A set of references to commit objects, called heads.
 
-4.References
+4. References
 
-a.Local Version Control Systems
+a. Local Version Control Systems
 
-b.Centralized Version Control Systems
+b. Centralized Version Control Systems
 
-c.Distributed Version Control Systems
+c. Distributed Version Control Systems
 
-5.Git Installations
+5. Git Installations
 
-a.sudo apt-get install git-all
+a. sudo apt-get install git-all
 
-b.git config
+b. git config
 
-c.git config --global user.name "John Doe"
+c. git config --global user.name "John Doe"
 
-d.git config --global user.email johndoe@example.com
+d. git config --global user.email johndoe@example.com
 
-e.git config --list
+e. git config --list
 
-f.git help (verb)
+f. git help (verb)
 
-g.git init
+g. git init
 
-h.git clone https://github.com/4alpha/training.git
-
+h. git clone https://github.com/4alpha/training.git
 
 
 
