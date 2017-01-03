@@ -54,5 +54,7 @@ o. git diff
 
 p. git log
 
+q. echo "" > .gitignore
+
 
 
