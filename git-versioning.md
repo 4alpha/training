@@ -52,9 +52,10 @@ n. git push
 
 o. git diff
 
-p. git log
+p. echo "#Git Ignore File" > .gitignore
 
-q. echo "#Git Ignore File" > .gitignore
+q. rm "filename/path" VS git rm "filename/path" 
 
+r. git log
 
 
