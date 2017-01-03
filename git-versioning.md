@@ -12,7 +12,7 @@ Git (/ɡɪt/) is a widely-used source code management system for software develo
 
 The purpose of Git is to manage a project, or a set of files, as they change over time. Git stores this information in a data structure called a repository. A git repository contains, among other things, the following: A set of commit objects. A set of references to commit objects, called heads.
 
-=> References
+=> Concept
 
 a. Local Version Control Systems
 
@@ -20,7 +20,7 @@ b. Centralized Version Control Systems
 
 c. Distributed Version Control Systems
 
-=> Git Installations
+=> Git Installations & Frequently used commands
 
 a. sudo apt-get install git-all
 
