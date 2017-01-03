@@ -36,7 +36,8 @@ f.git help (verb)
 
 g.git init
 
-h.
+h.git clone https://github.com/4alpha/training.git
+
 
 
 
