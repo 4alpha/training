@@ -10,7 +10,7 @@
 #### [Development Environment](dev-env.md)
 1. [OS](linux.md)
 1. [Editors](editors.md) - (Shantanu)
-2. Code Style and Formatting (Nilesh)
+2. [Coding Convention / Styling](styleguide.md) (Nilesh)
 3. [Versioning - Git](git-versioning.md) (Rajesh)
 4. Package Manager npm / maven - (Pallavi)
 5. Build gulpjs - (Pallavi) 
