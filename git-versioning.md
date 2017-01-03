@@ -34,9 +34,21 @@ e. git config --list
 
 f. git help (verb)
 
-g. git init
+g. git clone https://github.com/4alpha/training.git
 
-h. git clone https://github.com/4alpha/training.git
+h. git init
+
+i. git status
+
+j. echo "My Project" > README
+
+k. git add README
+
+l. git commit -m "Initial Commit"
+
+m. git pull
+
+n. git push
 
 
 
