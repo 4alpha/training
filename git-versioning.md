@@ -15,6 +15,10 @@ The purpose of Git is to manage a project, or a set of files, as they change ove
 4.References
 
 a.Local Version Control Systems
+
 b.Centralized Version Control Systems
+
 c.Distributed Version Control Systems
+
+
 
