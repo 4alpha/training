@@ -50,5 +50,9 @@ m. git pull
 
 n. git push
 
+o. git diff
+
+p. git log
+
 
 
