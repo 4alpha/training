@@ -54,7 +54,7 @@ o. git diff
 
 p. git log
 
-q. echo "" > .gitignore
+q. echo "#Git Ignore File" > .gitignore
 
 
 
