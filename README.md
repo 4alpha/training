@@ -5,12 +5,12 @@
 1. [OS](linux.md)
 1. [Editors](editors.md) - (Shantanu)
 3. [Versioning - Git](git-versioning.md) (Rajesh)
-7. Local Development Environment (Vagrant, Docker, Servers) - (Aslam)
 2. [Coding Formatting / Styling](styleguide.md) (Nilesh)
+6. Static code analysis (Style, Syntax Check) - (Aslam)
+7. Local Development Environment (Vagrant, Docker, Servers) - (Aslam)
 4. Package Manager npm / maven - (Pallavi)
 8. Tools (nodejs, [npm](npm.md), artisan etc) (Shantanu, Nilesh)
 5. Build gulpjs - (Pallavi) 
-6. Static code analysis (Style, Syntax Check) - (Aslam)
 9. Developer Accounts - ~~slack, github,~~ upwork
 
 #### Kickstart
