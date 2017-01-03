@@ -1,3 +1,11 @@
+1. Open vs closed source
+2. End User - User guide
+3. Technical - Code, Tutorial, Samples & API
+4. Research / Self Help - In built -- help, Code Base, Git Bugs, Test Case, Google, Stackoverflow
+5. Peer - Subordinate, Forum, Discussion Board
+6. Review
+
+
 1. Software / Program Cycle - Code feature, bug, modify, add more, improve. Trade secret, paying to use not buying, 
 services, support. Mass collaboration to produce quick usable product.
 
