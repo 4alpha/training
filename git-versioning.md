@@ -34,5 +34,9 @@ e.git config --list
 
 f.git help (verb)
 
+g.git init
+
+h.
+
 
 
