@@ -20,5 +20,12 @@ b.Centralized Version Control Systems
 
 c.Distributed Version Control Systems
 
+5.Git Installations
+
+a.sudo apt-get install git-all
+b. git config
+c. git config --global user.name "John Doe"
+d. git config --global user.email johndoe@example.com
+e. git config --list
 
 
