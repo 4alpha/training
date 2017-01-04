@@ -45,53 +45,18 @@ Q & A session
 NOTES:
 
 
-Open source
-Closed source
-Defination
-The open source software in which the copyright holder provides the rights to study, change,and distribute the software to anyone and for any purpose.
-closed-source software involves the use of constraints on what can be done with the 	software and the restriction of access to the original source code
-Innovation
-The source code is open source that is anyone can look into it and can change it.
-This innovation, however, may not be passed on to all users. 
-The source code is closed that is only the developer itself can look into it and change it.
-It ensures the security and reliability of closed software that is fully tested and offered to all users.
-Cost
-Open source is a free of cost that is we do not need to pay for it but if we need some extra services then for that user need to pay.
-To use closed source we need to pay this not means that they give you ownership,we pay for used that s/w only.
-Support/services
-Open source software deliver support via forums and blogs, but this support often 	fails to deliver the high level of response that many consumers expect .
-Support includes detailed documentation, forums, wikis, newsgroups, email ,lists and live chat. 
-Service and support are probably the greatest advantages of using proprietary closed source.
-Support includes user manuals and points of contact for immediate assistance from viable companies with experts who are intimately familiar with the products and services.
-
-Usability
-Usability is often a major area of criticism for open source software because the 	 technology is generally not reviewed by usability experts and caters to developers rather than the vast majority of layperson users.
-For closed source software, usability is a high selling point due to expert 	usability testing for a more targeted audience.
-
-Security
-Security of open source is often a concern for large companies because software is not always developed in a controlled environment.One way to reduce this potential risk is to adopt a reputable brand with a concentrated development team supported by a strong online community.
-Closed software is generally seen as more secure because it is developed in a controlled environment by a concentrated team with a common 	direction. 
-Bugs
-Because large open source software projects can literally have millions of eyes examining the source code, there is a much higher probability that more bugs are exposed.
-
- Compair to open source  there are less bugs becouse code from a closed source vendor with a far smaller development staff.  
-
-Time line
-It’s continually evolving in real time as developers add to it and modify it,
-The majority of closed source software is pushed into the market long before it’s ready. Many software companies view this practice as crucial to the development/testing of the product.
-Vendor lock in
-Open source is envolved in real time so vendor not lock it becouse it update frequently.
-A dependency on the future versions and upgrades for a closed source software package can create vendor lock-in, entrenching a monopoly position. 
-Example
-1)Networking environment-Linux
-2)Web browsers-Firefox
-3)Peer to peer file sharing programs-Fost wire
-4)security-AVG      Antivirus/ClamAV
-
-1)Networking environment-Microsoft Windows
-2)Web browsers-Internet Explorer,opera,safari
-3)Peer to peer file sharing programs-Lime Wire
-4)security-Norton antivirus
+   |Open source            |         Closed source
+---|-----------------------|----------------------
+Defination|The open source software in which the copyright holder provides the rights to study, change,and distribute the software to anyone and for any purpose.|closed-source software involves the use of constraints on what can be done with the software and the restriction of access to the original source code|
+Innovation|The source code is open source that is anyone can look into it and can change it.This innovation, however, may not be passed on to all users. |The source code is closed that is only the developer itself can look into it and change it.It ensures the security and reliability of closed software that is fully tested and offered to all users.|
+Cost|Open source is a free of cost that is we do not need to pay for it but if we need some extra services then for that user need to pay.|To use closed source we need to pay this not means that they give you ownership,we pay for used that s/w only.
+Support/services|Open source software deliver support via forums and blogs, but this support often fails to deliver the high level of response that many consumers expect.Support includes detailed documentation, forums, wikis, newsgroups, email ,lists and live chat.|Service and support are probably the greatest advantages of using proprietary closed source.Support includes user manuals and points of contact for immediate assistance from viable companies with experts who are intimately familiar with the products and services.
+Usability|Usability is often a major area of criticism for open source software because the technology is generally not reviewed by usability experts and caters to developers rather than the vast majority of layperson users.|For closed source software, usability is a high selling point due to expert usability testing for a more targeted audience.
+Security|Security of open source is often a concern for large companies because software is not always developed in a controlled environment.One way to reduce this potential risk is to adopt a reputable brand with a concentrated development team supported by a strong online community.|Closed software is generally seen as more secure because it is developed in a controlled environment by a concentrated team with a common direction. 
+Bugs|Because large open source software projects can literally have millions of eyes examining the source code, there is a much higher probability that more bugs are exposed.| Compair to open source  there are less bugs becouse code from a closed source vendor with a far smaller development staff.
+Time line|It’s continually evolving in real time as developers add to it and modify it|The majority of closed source software is pushed into the market long before it’s ready. Many software companies view this practice as crucial to the development/testing of the product.
+Vendor lock in|Open source is envolved in real time so vendor not lock it becouse it update frequently.|A dependency on the future versions and upgrades for a closed source software package can create vendor lock-in, entrenching a monopoly position. 
+Example|1)Networking environment-Linux2)Web browsers-Firefox3)Peer to peer file sharing programs-Fost wire4)security-AVG      Antivirus/ClamAV|1)Networking environment-Microsoft Windows2)Web browsers-Internet Explorer,opera,safari3)Peer to peer file sharing programs-Lime Wire4)security-Norton antivirus
 
 
 
