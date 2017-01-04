@@ -12,7 +12,7 @@
 2. [JavaScript](javascript.md) (Nilesh)
 3. [Tools](dev-tools.md) (Dev Team)
 4. [MySQL](mysql.md) (Pallavi)
-5. [OOPs using Java](oops.md) (Dev Team)
+5. [OOPs with Java](oops.md) (Dev Team)
 6. [PHP](php.md) (Rajesh)
 7. [IT Project](it-projects.md) (Project Mentors)
 
