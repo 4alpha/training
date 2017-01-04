@@ -1,7 +1,7 @@
 # Content
-#### [Seeking Help](help.md) (Aslam)
+#### [Seeking Help](help.md)
 
-#### [The Environment]
+#### The Environment
 1. [Linux](linux.md)
 2. [Code Editor](code-editor.md) - (Shantanu)
 3. [Code Formatting](code-formatting.md) (Nilesh)
