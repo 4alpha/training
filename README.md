@@ -10,7 +10,7 @@
 #### Kickstart
 1. [HTML5](html.md) (Shantanu)
 2. [JavaScript](javaScript.md) (Nilesh)
-3. [NodeJS & Tools] nodejs, npm, gulpjs and their usages (Dev Team)
+3. [Tools] nodejs, npm, gulpjs, composer, maven and their usages (Dev Team)
 4. [MySQL](mysql.md) (Pallavi)
 5. [OOPs using Java](oops.md) (Dev Team)
 6. [PHP](php.md) (Rajesh)
