@@ -8,3 +8,5 @@ Basic intro<br/>
 Manage extensions<br/>
 Git diff<br/>
 Basic shortcuts (ctrl+p, ctrl+`, ..)
+
+##Eclipse -> 
