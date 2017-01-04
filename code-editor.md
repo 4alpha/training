@@ -9,4 +9,6 @@ Manage extensions<br/>
 Git diff<br/>
 Basic shortcuts (ctrl+p, ctrl+`, ..)
 
-##Eclipse -> 
+##Eclipse ->
+Installation<br/>
+Oracle Java setup
