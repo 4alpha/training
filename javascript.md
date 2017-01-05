@@ -20,3 +20,4 @@
 20. Promises
 21. JavaScript Use Strict
 22. ES6 features (Constant variable, Spread operator, Arrow function, Template Strings, Destructuring)
+23. [Modules](http://exploringjs.com/es6/ch_modules.html)
