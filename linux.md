@@ -21,4 +21,4 @@ NOTES:
 
 Ubuntu GNOME -
 
-GNOME is acronym for GNU Network Object Model Environment. GNOME is a part of GNU projects and it is free and open source software. GNOME is a windows like desktop system that works on UNIX.Ubuntu GNOME is an official Ubuntu flavor, and user-friendly and easy to use desktop application. 
+GNOME is acronym for GNU Network Object Model Environment. GNOME is a part of GNU projects and it is free and open source software. Ubuntu GNOME is a windows like desktop environment that works on UNIX.It is an official Ubuntu flavor, and user-friendly and easy to use desktop application. 
