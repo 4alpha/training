@@ -1,12 +1,10 @@
-##Gedit -> 
-Basic introduction<br/>
-Edit preferences
+##Built-in editors ->
+vi, vim, nano, gedit
          
 ##Visual studio code -> 
 Download<br/>
 Basic intro<br/>
 Manage extensions<br/>
-Git diff<br/>
 Basic shortcuts (ctrl+p, ctrl+`, ..)
 
 ##Eclipse ->
