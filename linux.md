@@ -11,7 +11,6 @@
 1. sudo vs su
 1. Managing services using systemctl
 1. Redirection & pipes
-1. vi, nano & Text Editor
 1. Utilites - file browser, [ssh](ssh.md)
 1. Linux job, /etc/crontab 
 1. config files - /etc/fstab, /etc/hosts, $HOME/.bashrc, $HOME/.bash_profile
