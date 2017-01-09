@@ -1,5 +1,5 @@
 ##Built-in editors ->
-vi, vim, nano, gedit
+[vi](http://www.lagmonster.org/docs/vi.html), [vim](https://vim.rtorr.com/), nano, gedit
          
 ##Visual studio code -> 
 Download<br/>
