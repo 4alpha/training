@@ -1,3 +1,3 @@
-1. Javascript - Nodejs, npm, gulpjs
-2. Java - ant, maven
-3. PHP - composer
+1. Javascript - Nodejs, npm, gulpjs (Nilesh)
+2. Java - ant, maven, gradle (Pallavi)
+3. PHP - composer (Shantanu)
