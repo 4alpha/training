@@ -37,29 +37,54 @@ f. Set git user name ~$ git config --global user.name "Rajesh J"
 g. Display git user email ~$ git config --global user.email 
 
 h. Set git user email ~$ git config --global user.email rajesh.jagtap@mutant-tech.com
------------
-h. git init
 
-i. git status
+i. Getting/Setting a repository locally ~$ git init
 
-j. echo "My Project" > README
+j. Creating a sample file ~$ echo "Training" > README.md 
 
-k. git add README
+k. Viewing the file changes ~$ git status
 
-l. git commit -m "Initial Commit"
+l. Stagging a file ~$ git add README.md
 
-g. git clone https://github.com/4alpha/training.git
+m. Commiting a file ~$ git commit -m "Initial Commit"
 
-m. git pull
+n. Ignoring files from commit ~$ cat .gitignore
 
-n. git push
+o. Viewing files data changes ~$ git diff
 
-o. git diff
-
-p. echo "#Git Ignore File" > .gitignore
+p. Remove a file from Git ~$ git rm filename
 
 q. rm "filename/path" VS git rm "filename/path" 
 
-r. git log
+r. Moving or Renaming file ~$ mv README.md README
+
+s. Lists the commits made in that repository in reverse chronological order ~$ git log
+
+t. Takes your staging area and uses it for the commit ~$ git commit --amend
+
+u. Undo the file stagged ~$ git reset HEAD filename
+
+v. Revert the changes in working directory ~$ git checkout -- filename
+
+w. Getting remote remote repository ~$ git clone https://github.com/4alpha/training.git
+
+x. Shows you the URLs that Git has stored for the shortname to be used when reading and writing to that remote ~$ git remote -v
+
+y. Adding a remote repository ~$ git remote add shortname url
+
+z. Fetches any new work that has been pushed to that server since you cloned, does auto merge ~$ git fetch remote-name
+
+aa. Generally fetches data from the server you originally cloned from and automatically tries to merge it into the code you’re currently working on  ~$ git pull remote-name
+
+ab. Pushing local changes to remote server ~$ git push remote-name branch-name
+
+ac. Tagging - creating a tag ~$ git tag -a v1.4 -m "my version 1.4"
+
+ad. Lightweight tag ~$ git tag v1.4-lw
+
+ae. List of tags ~$ git show tagname
+
+af. Display commits ~$ git show tagname
+
 
 
