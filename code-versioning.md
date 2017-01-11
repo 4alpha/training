@@ -86,5 +86,19 @@ ae. List of tags ~$ git show tagname
 
 af. Display commits ~$ git show tagname
 
+ag. Creating a new branch ~$ git branch branchname
+
+ah. Switching branches ~$ git checkout branchname
+
+ai. To create a branch and switch to it at the same time ~$ git checkout -b branchname
+
+aj. Merging branch ~$ git merge branchname
+
+ak. Deleting a branch ~$ git branch -d branchname
+
+al. List of branches ~$ git branch
+
+am. Delete remote branch ~$ git push origin --delete branchname
+
 
 
