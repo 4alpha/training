@@ -22,21 +22,22 @@ c. Distributed Version Control Systems
 
 => Git Installations & Frequently used commands
 
-a. Install command line tool git -
-sudo apt-get install git-all
+a. Install command line tool git ~$ sudo apt-get install git-all
 
-b. git config
+b. View the git configuration help ~$ git config
 
-c. git config --global user.name "John Doe"
+c. Get a git command help ~$ git help (verb)
 
-d. git config --global user.email johndoe@example.com
+d. Show global configuration ~$ git config --list
 
-e. git config --list
+e. Display git user name ~$ git config --global user.name 
 
-f. git help (verb)
+f. Set git user name ~$ git config --global user.name "Rajesh J"
 
-g. git clone https://github.com/4alpha/training.git
+g. Display git user email ~$ git config --global user.email 
 
+h. Set git user email ~$ git config --global user.email rajesh.jagtap@mutant-tech.com
+-----------
 h. git init
 
 i. git status
@@ -46,6 +47,8 @@ j. echo "My Project" > README
 k. git add README
 
 l. git commit -m "Initial Commit"
+
+g. git clone https://github.com/4alpha/training.git
 
 m. git pull
 
