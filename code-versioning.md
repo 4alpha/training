@@ -22,7 +22,8 @@ c. Distributed Version Control Systems
 
 => Git Installations & Frequently used commands
 
-a. sudo apt-get install git-all
+a. Install command line tool git -
+sudo apt-get install git-all
 
 b. git config
 
