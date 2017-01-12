@@ -7,9 +7,9 @@
 7. How to change the permission of file ?
 8. How to end your SSH session ?
 
-*setting environment for ssh*
-1. commands for installing ssh
-  sudo service ssh status
+*setting environment for ssh* <br>
+1. commands for installing ssh <br>
+  sudo service ssh status <br>
   sudo apt-cache search openssh
   sudo apt-get install openssh-server
 2. commands for connection establishment
