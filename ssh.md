@@ -10,21 +10,21 @@
 *setting environment for ssh* <br>
 1. commands for installing ssh <br>
   sudo service ssh status <br>
-  sudo apt-cache search openssh
-  sudo apt-get install openssh-server
-2. commands for connection establishment
-  *with password*
-    cd /home/.ssh/
-    ssh developer@"ip adress of server machine"
-  *without password*
-    ssh-keygen -t -rsa    //generating keys (privet and public)
-    scp id_rsa.pub developer@"server's ip"
-    ssh developer@"ip adress of server machine"
-    //At server side machine
-      cd .ssh
-      cat id_rsa.pub >> /home/.ssh/authorized_keys
-      chmod 644 authorized_keys
-      cd ..
-      chmod 755 .ssh
+  sudo apt-cache search openssh <br>
+  sudo apt-get install openssh-server <br>
+2. commands for connection establishment <br>
+  *with password* <br>
+    cd /home/.ssh/ <br>
+    ssh developer@"ip adress of server machine" <br>
+  *without password* <br>
+    ssh-keygen -t -rsa    //generating keys (privet and public) <br>
+    scp id_rsa.pub developer@"server's ip" <br>
+    ssh developer@"ip adress of server machine" <br>
+    //At server side machine <br>
+      cd .ssh <br>
+      cat id_rsa.pub >> /home/.ssh/authorized_keys <br>
+      chmod 644 authorized_keys <br>
+      cd .. <br>
+      chmod 755 .ssh <br>
       
   
