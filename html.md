@@ -1,3 +1,7 @@
+1.What is HTML ?
+1.Elements, Tags, Attributes, Entities
+1.Meaning of DOCTYPE (& Other modes)
+
 Tags ->
 
 Document metadata -> 
