@@ -1,6 +1,6 @@
-1.What is HTML ?
-1.Elements, Tags, Attributes, Entities
-1.Meaning of DOCTYPE (& Other modes)
+1.What is HTML ?<br/>
+2.Elements, Tags, Attributes, Entities<br/>
+3.Meaning of DOCTYPE (& Other modes)<br/>
 
 Tags ->
 
