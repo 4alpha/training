@@ -38,7 +38,7 @@ h1, h2, p {
     text-align: center;
 }
 
-/* This is
-a multi-line
+/* This is<br />
+a multi-line<br />
 comment */
 
