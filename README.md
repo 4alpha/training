@@ -9,7 +9,7 @@
 
 #### Kickstart
 1. [HTML5](html.md) (Shantanu)
-2. [CSS](html.md) (Rajesh)
+2. [CSS](css.md) (Rajesh)
 3. [JavaScript](javascript.md) (Nilesh)
 4. [Tools](dev-tools.md) (Dev Team)
 5. [MySQL](mysql.md) (Pallavi)
