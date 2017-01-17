@@ -48,16 +48,17 @@ What style will be used when there is more than one style specified for an HTML 
 
 Generally speaking we can say that all the styles will "cascade" into a new "virtual" style sheet by the following rules, where number one has the highest priority:
 
-    1. Inline style (inside an HTML element) eg.  <h1 style="color:blue;margin-left:30px;">This is a heading.</h1>
-    2. (in the head section)<br />
-       Internal style sheets <br />
+    1. Inline style (inside an HTML element)
+       <h1 style="color:blue;margin-left:30px;">This is a heading.</h1>
+    2. (in the head section)
+       Internal style sheets
        <style>
         h1 {
             color: orange;
         }
         </style>
-       and <br />
-       External style sheets  <br />
+       and
+       External style sheets
        <link rel="stylesheet" type="text/css" href="mystyle.css">
     3. Browser default
 
