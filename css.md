@@ -64,3 +64,9 @@ Generally speaking we can say that all the styles will "cascade" into a new "vir
 
 So, an inline style (inside a specific HTML element) has the highest priority, which means that it will override a style defined inside the head tag, or in an external style sheet, or a browser default value.
 
+#7. The CSS Box Model
+
+All HTML elements can be considered as boxes. In CSS, the term "box model" is used when talking about design and layout.
+
+The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. 
+
