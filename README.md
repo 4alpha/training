@@ -9,12 +9,13 @@
 
 #### Kickstart
 1. [HTML5](html.md) (Shantanu)
-2. [JavaScript](javascript.md) (Nilesh)
-3. [Tools](dev-tools.md) (Dev Team)
-4. [MySQL](mysql.md) (Pallavi)
-5. [OOPs with Java](oops.md) (Pallavi)
-6. [PHP](php.md) (Shantanu)
-7. [IT Project](it-projects.md) (Project Mentors)
+2. [CSS](html.md) (Rajesh)
+3. [JavaScript](javascript.md) (Nilesh)
+4. [Tools](dev-tools.md) (Dev Team)
+5. [MySQL](mysql.md) (Pallavi)
+6. [OOPs with Java](oops.md) (Pallavi)
+7. [PHP](php.md) (Shantanu)
+8. [IT Project](it-projects.md) (Project Mentors)
 
 #### Code for Humans
 1. Theory (Aslam)
