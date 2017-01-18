@@ -11,7 +11,7 @@ p {
 
 #2. The id Selector
 
-para1 {
+#para1 {
     text-align: center;
     color: red;
 }
