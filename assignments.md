@@ -4,7 +4,7 @@ HTML
 
 CSS
 --------------------------
-1. Create form for biodata, using inline, internal & external css.
+1. Create form for biodata, using inline, internal & external css (basics)
 
 Javascript
 --------------------------
