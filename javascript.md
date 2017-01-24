@@ -19,6 +19,10 @@
 19. JavaScript Use Strict
 
 
+
+
+
+
 20. Errors
 21. Regular Expressions
 22. Form Validation
