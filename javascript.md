@@ -13,16 +13,15 @@
 13. HTML DOM
 14. [Events](https://www.w3.org/TR/uievents/)
 15. Timing Events
-16. Json
-17. AJAX
-18. Promises
-19. JavaScript Use Strict
+16. AJAX
+17. JavaScript Use Strict
 
 
 
 
 
-
+18. Json
+19. Promises
 20. Errors
 21. Regular Expressions
 22. Form Validation
