@@ -1,6 +1,6 @@
 HTML
 --------------------------
-1. Create form demostrating usage of form input elements and their properties.
+1. Create form demonstrating usage of form input elements and their attributes.
 
 Javascript
 --------------------------
