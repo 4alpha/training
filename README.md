@@ -38,4 +38,5 @@
 
 ###### Developer Accounts - ~~slack, github,~~ upwork
 ###### [Training Log](training-log.md)
+###### [Assignments](assignments.md)
 ###### [Code Review Log](code-review-log.md)
