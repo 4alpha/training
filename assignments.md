@@ -17,7 +17,9 @@ Javascript
 4. Mask email - first.last@example.com  => fiXXX.XXXX@example.com
 5. Slug - Best Way to Write CODE => best-way-to-write-code
 6. Currency format - 1234.5 => $1,234.50
-7. Handle click events show messages at various stages => at source, at parent, bubbling, capturing, cancel & stop propagation
+7. Handle click events show messages at various stages => at source & parent, bubbling, capturing & target phase, cancel & stop propagation
 10. Write validation for form you created using regular expression
 11. Write code showing usage of - Anonymous, callback, promise, prototyping, recursion function
 12. Write code showing equality test for null, "", 0, NAN, undefined
+13. Save student data in storage (local & session)
+14. Open link in tab, popup & in div
