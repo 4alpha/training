@@ -10,4 +10,6 @@ jan 06, 2017 | Nilesh | SSH | 1. SSH connection establishment and practice
 jan 06, 2017 | Pallavi | Crontab | 1. Create crontab, list all crontab, remove crontab
 dec 28, 2016 | Aslam | Latest Above Old | Got ?
 dec 27, 2016 | Aslam | Update Training Plan | 1. Reviewed old plan - 2. Updated with new items
-vaishnavi
+
+# vaishnavi
+# prashant
