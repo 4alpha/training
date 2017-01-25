@@ -1,4 +1,4 @@
-###### To be updated by trainee in round robin fashion
+###### To be updated by trainee in round robin fashion [Next: , Order: Karishma, Vaishnavi, Prashant, Saurabh, Ankita,  Mukund]
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
@@ -13,10 +13,3 @@ Jan 06, 2017 | Nilesh | SSH | 1. SSH connection establishment and practice
 Jan 06, 2017 | Pallavi | Crontab | 1. Create crontab, list all crontab, remove crontab
 Dec 28, 2016 | Aslam | Latest Above Old | Got ?
 Dec 27, 2016 | Aslam | Update Training Plan | 1. Reviewed old plan - 2. Updated with new items
-# Karishma
-# vaishnavi
-# prashant
-# saurabh
-# Ankita
-# Mukund
-
