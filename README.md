@@ -13,7 +13,7 @@
 3. [JavaScript](javascript.md) (Nilesh)
 4. [Tools](dev-tools.md) (Dev Team - ?)
 5. [MySQL](mysql.md) (Pallavi - Ready)
-6. [OOPs with Java](oops.md) (Pallavi)
+6. [OOPs with Java](oops.md) (Pallavi - ?)
 7. [PHP](php.md) (Shantanu)
 8. [IT Project](it-projects.md) (Project Mentors)
 
