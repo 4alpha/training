@@ -1,4 +1,5 @@
-###### To be updated by trainee in round robin fashion [Next: , Order: Karishma, Vaishnavi, Prashant, Saurabh, Ankita,  Mukund]
+###### To be updated by trainee in round robin fashion [Next: Ankita]
+Order: Karishma, Vaishnavi, Prashant, Saurabh, Ankita,  Mukund
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
