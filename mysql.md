@@ -27,3 +27,6 @@
 8. Errors and logs
 9. Functions (Comparison, Control Flow, String, Date Time) and Logical operators 
 10. Queries (Basic, Advanced, Sub-query)-->
+11. Comparison between MySQL/MariaDB & PostgreSQL
+12. Introduction to NOSQL db include MongoDB, Cassandra & Redis
+[Database Ranking] (http://db-engines.com/en/ranking)
