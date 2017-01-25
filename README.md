@@ -27,7 +27,7 @@
 
 #### Advance Topics
 1. [Frameworks](frameworks.md) (Aslam)
-2. [Bootstrap 4 & Material 2](bs-md.md) (Shantanu, Nilesh)
+2. [Bootstrap 4 & Material 2](bs-md.md) (Shantanu, Nilesh) (- ?)
 3. [AngularJS 2](angular2.md) (Aslam)
 4. [Laravel 5.3](laravel.md) (Rajesh)
 5. [Jersey](jersey.md) (Abhijeet)
