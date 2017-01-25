@@ -23,8 +23,8 @@
 
 18. Json
 19. Promises
-21. Regular Expressions
+21. Regular Expressions (- ?)
 23. ES6 features (Constant variable, Spread operator, Arrow function, Template Strings, Destructuring)
-24. [Modules](http://exploringjs.com/es6/ch_modules.html)
+24. [Modules](http://exploringjs.com/es6/ch_modules.html) (- ?)
 25. String, Array (in details) date, window & document (awareness)
 26. document vs window vs navigator
