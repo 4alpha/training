@@ -1,18 +1,18 @@
 # Content
-#### [Seeking Help](help.md)
+#### [Seeking Help](help.md) (Team - Done)
 
 #### The Environment
 1. [Linux](linux.md)
-2. [Code Editor](code-editor.md) - (Shantanu)
-3. [Code Formatting](code-formatting.md) (Nilesh)
-4. [Code Versioning](code-versioning.md) (Rajesh)
+2. [Code Editor](code-editor.md) - (Shantanu - Done)
+3. [Code Formatting](code-formatting.md) (Nilesh - Done)
+4. [Code Versioning](code-versioning.md) (Rajesh - Done)
 
 #### Kickstart
 1. [HTML5](html.md) (Shantanu)
 2. [CSS](css.md) (Rajesh)
 3. [JavaScript](javascript.md) (Nilesh)
-4. [Tools](dev-tools.md) (Dev Team)
-5. [MySQL](mysql.md) (Pallavi)
+4. [Tools](dev-tools.md) (Dev Team - ?)
+5. [MySQL](mysql.md) (Pallavi - Ready)
 6. [OOPs with Java](oops.md) (Pallavi)
 7. [PHP](php.md) (Shantanu)
 8. [IT Project](it-projects.md) (Project Mentors)
