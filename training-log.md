@@ -2,6 +2,7 @@
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
+Jan 26,2017|Aslam|Javascript|Assignments
 Jan 25,2017  | Nilesh | Javascript | 1.Promises 2.regExp 3.JSON
 Jan 24,2017 | Rajesh | git | 1.git conflict demo
 Jan 23,2017  | Nilesh | Javascript | 1.Create a form and display data on same page
