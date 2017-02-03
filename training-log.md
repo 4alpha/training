@@ -2,6 +2,7 @@
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
+Feb 03,2017 | Pallavi |1.intodution to mysql 2.Installation 3.Practice-create schema,alter,constraint 4.Read-Datatypes, joins, cascade
 Feb 02,2017|Nilesh|npm|1.intodution 2.install package 3.gulp
 Jan 26,2017|Aslam|Javascript|Assignments
 Jan 25,2017  | Nilesh | Javascript | 1.Promises 2.regExp 3.JSON
