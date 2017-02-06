@@ -34,4 +34,5 @@ Basic Queries
  5. List highest and lowest salaries paid to the employees by each department?
  6. List the no. of employees having salaries between 40,000 to 60,000?
  7. Which is the department of employee having name "Aleksandar Ananiadou"?
+ 8. What is the name and salary of employee having title "Senior Staff" and from "Human Resources" department?
  
