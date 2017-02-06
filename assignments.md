@@ -31,4 +31,5 @@ Basic Queries
  2. Find count of employees having first name "Alian".
  3. List maximum, minimum and average salaries of employees?
  4. List no. of employees in each department.
+ 5. Which departments gives highest and lowest amount of money to the employees?
  
