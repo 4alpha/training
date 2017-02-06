@@ -32,4 +32,5 @@ Basic Queries
  3. List maximum, minimum and average salaries of employees?
  4. List no. of employees in each department.
  5. Which departments gives highest and lowest amount of money to the employees?
+ 6. List the no. of employees having salaries between 40,000 to 60,000?
  
