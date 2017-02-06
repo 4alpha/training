@@ -23,3 +23,10 @@ Javascript
 12. Write code showing equality test for null, "", 0, NAN, undefined
 13. Save student data in storage (local & session)
 14. Open link in tab, popup & in div
+
+MySql
+----------------------------------
+Basic Queries
+ 1. Find employee id/no of employees having last name "Aingworth".
+ 2. Which employee has maximum salary among all employees?
+ 
