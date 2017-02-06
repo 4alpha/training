@@ -29,11 +29,14 @@
 1. [Frameworks](frameworks.md) (Aslam)
 2. [Bootstrap 4 & Material 2](bs-md.md) (Shantanu, Nilesh) (- ?)
 3. [AngularJS 2](angular2.md) (Aslam)
-4. [Laravel 5.3](laravel.md) (Rajesh)
+4. [Laravel 5.4](laravel.md) (Rajesh)
 5. [Jersey](jersey.md) (Abhijeet)
 6. Agile Software Development (Aslam)
 7. Local Development Environment (Vagrant, Docker, Servers) - (Aslam)
 8. [Project](project.md) (Mentor - Pallavi / Rajesh, Reviewer - Nilesh / Shantanu)
+
+To Do
+React, VueJs, React Native, Webpack
 
 
 ###### Developer Accounts - ~~slack, github,~~ upwork
