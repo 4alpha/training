@@ -27,6 +27,7 @@ Javascript
 MySql
 ----------------------------------
 Basic Queries
- 1. Find employee id/no and count of employees having last name "Aingworth".
- 2. Which employee has maximum salary among all employees?
+ 1. Find employee id/no of employees having last name "Aingworth".
+ 2. Find count of employees having first name "Alian".
+ 3. Which employee has maximum salary among all employees?
  
