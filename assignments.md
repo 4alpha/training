@@ -30,4 +30,5 @@ Basic Queries
  1. Find employee id/no of employees having last name "Aingworth".
  2. Find count of employees having first name "Alian".
  3. List maximum, minimum and average salaries of employees?
+ 4. List no. of employees in each department.
  
