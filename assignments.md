@@ -28,9 +28,10 @@ MySql
 ----------------------------------
 Basic Queries
  1. Find employee id/no of employees having last name "Aingworth".
- 2. Find count of employees having first name "Alian".
+ 2. Find count of employees having first name "Aiman".
  3. List maximum, minimum and average salaries of employees?
  4. List no. of employees in each department.
- 5. Which departments gives highest and lowest amount of money to the employees?
+ 5. List highest and lowest salaries paid to the employees by each department?
  6. List the no. of employees having salaries between 40,000 to 60,000?
+ 7. Which is the department of employee having name "Aleksandar Ananiadou"?
  
