@@ -29,5 +29,5 @@ MySql
 Basic Queries
  1. Find employee id/no of employees having last name "Aingworth".
  2. Find count of employees having first name "Alian".
- 3. Which employee has maximum salary among all employees?
+ 3. List maximum, minimum and average salaries of employees?
  
