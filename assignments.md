@@ -34,7 +34,7 @@ Basic Queries
  5. List highest and lowest salaries paid to the employees by each department?
  6. List the no. of employees having salaries between 40,000 to 60,000?
  7. Which is the department of employee having name "Aleksandar Ananiadou"?
- 8. What is the name and salary( from 1994-09-19 to 1995-09-19) of employee having title "Senior Staff" and from "Human Resources" department and have hire date as 1987-09-21?
+ 8. What is the name and salary( from 1994-09-19 to 1995-09-19) of employee having title "Senior Staff" and from "Human Resources" department and have hire date as 1987-09-21, and born in january?
  9. How many titles are there for employees?
  10. List no. of employees  having age above 65 yrs in each department.
  11. Find names of employees, having salary less than average salary. Show the full name in one column in descending order.
