@@ -39,4 +39,5 @@ Basic Queries
  10. List no. of employees  having age above 65 yrs in each department.
  11. Find names of employees, having salary less than average salary. Show the full name in one column in descending order.
  12. Find all titles with no. of employees, show list in ascending order of no. of employees. 
- 13 .Find the employees having first name "Aleksandar" and if last name is "Armand" then display "YES" else display "no".
+ 13. Find the employees having first name "Aleksandar" and if last name is "Armand" then display "YES" else display "no".
+ 14. Find all the titles starting with 'Se' along with no. of employees.
