@@ -22,3 +22,18 @@
 22. Object cloning
 23. Static 
 (Topics from 20 - 23 with OOP session)
+Go through available function categories and sub cat.
+http://php.net/manual/en/funcref.php
+
+Extension
+http://php.net/manual/en/extensions.alphabetical.php
+Assignment phpinfo() ?
+Try installing unavailable extension
+
+Try all with example
+http://php.net/manual/en/book.strings.php
+http://php.net/manual/en/book.array.php
+
+Quick look
+http://php.net/manual/en/ref.datetime.php
+http://php.net/manual/en/ref.info.php
