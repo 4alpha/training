@@ -22,6 +22,7 @@
 22. Object cloning
 23. Static 
 (Topics from 20 - 23 with OOP session)
+
 Go through available function categories and sub cat.
 http://php.net/manual/en/funcref.php
 
