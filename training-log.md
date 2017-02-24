@@ -2,7 +2,18 @@
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
-Feb 06,2017|pallavi|MYSQL:Basic queries 1.Aggrigate function|
+Feb 24,2017 | Shantanu | php.ini file
+Feb 22,2017 | Shantanu | PHP superglobal varibles
+Feb 20,2017 | Shantanu | PHP extension, string methods, array methods, manual functions
+Feb 16,2017 | Shnatanu | PHP Documentation
+Feb 15,2017 | Shantanu | psql assignment(insert, update, delete using PHP)
+Feb 14,2017 | Shantanu | Schema creation, Databse connection(PHP to psql)  
+Feb 13,2017 | Shantanu | PHP, Postgres and Apache installation
+Feb 10,2017 | Pallavi | MariaDB vs Postgresql
+Feb 10,2017 | Aslam | Clean code (code formatting )
+Feb 09,2017 | Pallavi | Installation of workbench, MYSQL Date time queries
+Feb 07,2017 | Pallavi | MYSQL : Import and export database, Advanced queries 
+Feb 06,2017| Pallavi |MYSQL:Basic queries 1.Aggrigate function|
 Feb 03,2017 | Pallavi |1.intodution to mysql 2.Installation 3.Practice-create schema,alter,constraint 4.Read-Datatypes, joins, cascade
 Feb 02,2017|Nilesh|npm|1.intodution 2.install package 3.gulp
 Jan 26,2017|Aslam|Javascript|Assignments
