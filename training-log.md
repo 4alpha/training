@@ -10,7 +10,7 @@ Feb 15,2017 | Shantanu | psql | assignment(insert, update, delete using PHP)
 Feb 14,2017 | Shantanu | DATABASE | Schema creation, Databse connection(PHP to psql)  
 Feb 13,2017 | Shantanu | PHP, Postgres and Apache | installation
 Feb 10,2017 | Pallavi | MariaDB and Postgresql | MariaDB vs. PostgreSQL
-Feb 10,2017 | Aslam | Clean code (code formatting )
+Feb 10,2017 | Aslam | Code for Humans | Clean code (code formatting )
 Feb 09,2017 | Pallavi | MYSQL | Installation of workbench, MYSQL Date time queri
 Feb 07,2017 | Pallavi | MYSQL | Import and export database, Advanced queries 
 Feb 06,2017| Pallavi |MYSQL | Basic queries 1.Aggrigate function|
