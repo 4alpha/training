@@ -2,6 +2,12 @@
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
+Mar 06,07,08,2017 | Aslam | PHP | create generic controller 
+Mar 03,2017 | Aslam | PHP | convert DAO interface into  Abstact class and handle multiple table in db
+Mar 02,2017 | Aslam | PHP | create DAO interface implement into DAOclass
+Mar 01,2017 | Aslam | PHP | seperate model and view 
+Feb 28,2017 | Aslam | PHP | create interfaceDB and implement postgresclass 
+Feb 27,2017 | Aslam | PHP | Database connection  postgres
 Feb 24,2017 | Shantanu | PHP | php.ini file
 Feb 22,2017 | Shantanu | PHP | superglobal varibles
 Feb 20,2017 | Shantanu | PHP | extension, string methods, array methods, manual functions
