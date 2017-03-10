@@ -2,6 +2,7 @@
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
+Mar 09,2017 | Aslam | PHP | Handle Exception for all db values
 Mar 06,07,08,2017 | Aslam | PHP | create generic controller 
 Mar 03,2017 | Aslam | PHP | convert DAO interface into  Abstact class and handle multiple table in db
 Mar 02,2017 | Aslam | PHP | create DAO interface implement into DAOclass
