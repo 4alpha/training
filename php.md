@@ -1,6 +1,6 @@
 1. Introduction to server side scripting
 2. Installation of PHP
-3. Introduction of php.ini file (Discuss important settings)
+3. Introduction of php.ini file (***Discuss important settings***)
 4. Installing other extensions (mbstring, sqlite)
 5. Language basics (Variables, Datatypes)
 6. Arrays
@@ -22,3 +22,23 @@
 22. Object cloning
 23. Static 
 (Topics from 20 - 23 with OOP session)
+24. File upload
+25. File system API basics
+26. Exception  / Error
+27. Supported Protocols and Wrappers
+
+Go through available function categories and sub cat.
+http://php.net/manual/en/funcref.php
+
+Extension
+http://php.net/manual/en/extensions.alphabetical.php
+Assignment phpinfo() ?
+Try installing unavailable extension
+
+Try all with example
+http://php.net/manual/en/book.strings.php
+http://php.net/manual/en/book.array.php
+
+Quick look
+http://php.net/manual/en/ref.datetime.php
+http://php.net/manual/en/ref.info.php
