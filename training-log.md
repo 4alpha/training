@@ -2,6 +2,9 @@
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
+Mar 22,2017 | Shantanu | Bootstrap | Introduction, Container, Layout
+Mar 20,2017 | Aslam | PHP | Form Validation with data using JS, HTML
+Mar 17,2017 | Aslam | PHP | Formating, naming conventions for MVC assignment 
 Mar 09,2017 | Aslam | PHP | Handle Exceptions for all db values
 Mar 06,07,08,2017 | Aslam | PHP | create generic controller 
 Mar 03,2017 | Aslam | PHP | convert DAO interface into  Abstact class and handle multiple table in db
