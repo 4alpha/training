@@ -2,6 +2,9 @@
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
+Mar 29,2017 | Aslam | Javascript | Valaidation for input data in MVC assignment
+Mar 23,24,2017 | Aslam | Boostrap | Use bootstrap in MVC assignment
+Mar 22,2017 | Shantanu | Bootstrap | create one assignment with bootstrap component
 Mar 21,2017 | Shantanu | Bootstrap | Introduction, Container, Layout
 Mar 20,2017 | Aslam | PHP | Form Validation with data using JS, HTML
 Mar 17,2017 | Aslam | PHP | Formating, naming conventions for MVC assignment 
