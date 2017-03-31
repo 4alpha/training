@@ -2,6 +2,8 @@
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
+Mar 31,2017 | Aslam | Angular Material | update assignment with angular 
+Mar 30,2017 | Aslam | Angular Material | Read documentation and try examples
 Mar 29,2017 | Aslam | Javascript | Valaidation for input data in MVC assignment
 Mar 23,24,2017 | Aslam | Boostrap | Use bootstrap in MVC assignment
 Mar 22,2017 | Shantanu | Bootstrap | create one assignment with bootstrap component
