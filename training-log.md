@@ -4,7 +4,7 @@ Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
 Apr 04,2017 | Aslam | PHP, JavaScript | UI validations 
 Apr 03,2017 | Aslam | PHP | Introduction to Buisiness Layer, Update Buisiness Layer in MVC assignment 
-Mar 31,2017 | Aslam | Angular Material | update assignment with angular 
+Mar 31,2017 | Aslam | Angular Material | Update assignment with angular 
 Mar 30,2017 | Aslam | Angular Material | Read documentation and try examples
 Mar 29,2017 | Aslam | Javascript | Valaidation for input data in MVC assignment
 Mar 23,24,2017 | Aslam | Boostrap | Use bootstrap in MVC assignment
