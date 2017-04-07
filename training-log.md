@@ -2,8 +2,8 @@
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
-Apr 06,2017 | Aslam | Introducing Department Service 
-Apr 05,2017 | Aslam | Introducing Employee Service layer and it's Exceptions
+Apr 06,2017 | Aslam | PHP |Introducing Department Service 
+Apr 05,2017 | Aslam | PHP |Introducing Employee Service layer and it's Exceptions
 Apr 04,2017 | Aslam | PHP, JavaScript | UI validations 
 Apr 03,2017 | Aslam | PHP | Introduction to Buisiness Layer, Update Buisiness Layer in MVC assignment 
 Mar 31,2017 | Aslam | Angular Material | Update assignment with angular 
