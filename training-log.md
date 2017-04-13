@@ -2,6 +2,8 @@
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
+Apr 13,2017 | Aslam | PHP | Jasmine introduction ,installation, try out. 
+Apr 10,11,12,2017 | Aslam | PHP | Instroduction to JQuery, Implement it in MVC assignment, JSON, AJAX 
 Apr 06,2017 | Aslam | PHP |Introducing Department Service 
 Apr 05,2017 | Aslam | PHP |Introducing Employee Service layer and it's Exceptions
 Apr 04,2017 | Aslam | PHP, JavaScript | UI validations 
