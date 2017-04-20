@@ -2,6 +2,9 @@
 
 Date | Trainer | Topic | Assignments
 ------------ | ----------|---|----------------------------
+Apr 19, 2017 | Aslam | Project started.. UI design using Angular Material
+Apr 18,2017 | Aslam | Spice - Write Test cases for ajax in MVC 
+Apr 14,2017 | Aslam |try out on jasmine. create simple function and write test cases for that.
 Apr 13,2017 | Aslam | PHP | Jasmine introduction ,installation, try out. 
 Apr 10,11,12,2017 | Aslam | PHP | Instroduction to JQuery, Implement it in MVC assignment, JSON, AJAX 
 Apr 06,2017 | Aslam | PHP |Introducing Department Service 
