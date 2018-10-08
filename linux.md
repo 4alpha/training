@@ -1,4 +1,9 @@
-1. Introduction to Linux
+1. Introduction to Linux (History, features, distributions)
+  Exam: A. Find differences between Unix & Linux, Similarities between Windows & Linux. 
+B. Name smallest distros available having GUI or Window system
+1. Install Debian 9 on windows using virtualbox.
+  Exam: DIY
+
 1. Install Ubuntu GNOME
 1. init system
 1. Network Setup
